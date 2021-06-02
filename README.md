@@ -13,7 +13,7 @@ In order to run this app you must install nodejs on your computer first.
 1. git clone 
 2. remove package.lock.json 
 3. npm init 
-4. npm start in your terminal 
+4. npm run dev in your terminal 
 
 
 Enjoy testing :D 
